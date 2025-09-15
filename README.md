@@ -65,16 +65,20 @@
 <div align="center">
   <h3>🏆 My Recent Projects</h3>
   <br>
-  <a href="https://github.com/your-username/Nexus-repo-link" target="_blank">
-    <img src="https://via.placeholder.com/400x200.png?text=Nexus+Social+Media+Platform" alt="Nexus Project" style="width: 45%; margin: 10px;">
+  <a href="YOUR_NEXUS_REPO_LINK_HERE" target="_blank">
+    <img src="YOUR_NEXUS_IMAGE_URL_HERE" alt="Nexus Project" style="width: 45%; margin: 10px; border-radius: 8px;">
   </a>
-  <a href="https://github.com/your-username/Email-Formalizer-Pro-repo-link" target="_blank">
-    <img src="https://via.placeholder.com/400x200.png?text=Email+Formalizer+Pro" alt="Email Formalizer Pro" style="width: 45%; margin: 10px;">
+  <a href="YOUR_EMAIL_FORMALIZER_REPO_LINK_HERE" target="_blank">
+    <img src="YOUR_EMAIL_FORMALIZER_IMAGE_URL_HERE" alt="Email Formalizer Pro" style="width: 45%; margin: 10px; border-radius: 8px;">
   </a>
   <br>
-  <a href="https://github.com/your-username/SharedSlate-repo-link" target="_blank">
-    <img src="https://via.placeholder.com/400x200.png?text=SharedSlate+E-Learning+Platform" alt="SharedSlate" style="width: 45%; margin: 10px;">
+  <a href="YOUR_SHAREDSLATE_REPO_LINK_HERE" target="_blank">
+    <img src="YOUR_SHAREDSLATE_IMAGE_URL_HERE" alt="SharedSlate" style="width: 45%; margin: 10px; border-radius: 8px;">
   </a>
+  <br>
+  <p>
+    Find more projects in my <a href="https://github.com/divyanshu02raj?tab=repositories">repositories</a>.
+  </p>
 </div>
 
 ---
