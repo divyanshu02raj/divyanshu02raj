@@ -83,13 +83,3 @@ Full-stack developer specializing in the MERN stack with a passion for building 
 <br/>  
 
 
-
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
