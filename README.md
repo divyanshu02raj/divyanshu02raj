@@ -18,7 +18,7 @@ Full-stack developer specializing in the MERN stack with a passion for building 
 - 💬 Ask me about java, javascript, react and node js  
   
 
-- 📄 Know about my experiences [Resume](https://github.com/divyanshu02raj/Resume/blob/4aadc1a3a30a50fe7304ee6b25fc4f688f0c3705/DivyanshuRajResume.pdf)  
+- 📄 Know about my experiences [Resume]((https://github.com/divyanshu02raj/Resume/blob/32342656c082531da02a5774b7401fc4a91a4a4f/DivyanshuRajResume.pdf))  
   
 
 <br/>  
