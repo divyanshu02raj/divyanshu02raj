@@ -127,21 +127,9 @@
 
 <br/>
 
-<h3 align="center">📈 Activity Graph</h3>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=divyanshu02raj&bg_color=00000000&color=00E676&line=00E676&point=FFFFFF&area=true&hide_border=true" />
-</div>
 
-<br/>
 
-<h3 align="center">🏆 Trophies</h3>
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=divyanshu02raj&row=1&margin-w=40&theme=flat&no-frame=true" />
-  </a>
-</div>
 
-<br/>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=divyanshu02raj&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen" />
@@ -149,6 +137,3 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" width="50" />
-</div>
