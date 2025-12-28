@@ -114,26 +114,3 @@
     </td>
   </tr>
 </table>
-
-<br/>
-
-<h3 align="center">📊 GitHub Stats</h3>
-
-<div align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img alt="Divyanshu's Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshu02raj&theme=transparent&hide_border=true&title_color=00E676&text_color=999&sideNums=00E676&sideLabels=999&ring=00E676&fire=00E676&currStreakLabel=00E676&currStreakNum=00E676" height="192px"/>
-  </a>
-</div>
-
-<br/>
-
-
-
-
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=divyanshu02raj&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen" />
-</div>
-
-<br/>
-
