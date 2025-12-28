@@ -1,85 +1,173 @@
 <div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
-
-### <div align="center">Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Divyanshu Raj</div>  
-  
-
-Full-stack developer specializing in the MERN stack with a passion for building robust and scalable applications.  
-  
-
-- 🔭 I'm currently working on [Next Hire](http://next-hire-lilac.vercel.app/)  
-  
-
-- 🌱 I’m currently learning about advanced Generative AI architectures and fine-tuning large language models (LLMs) to build more customized applications.  
-  
-
-- 💬 Ask me about java, javascript, react and node js  
-  
-
-- 📄 Know about my experiences [Resume](https://github.com/divyanshu02raj/Resume/blob/32342656c082531da02a5774b7401fc4a91a4a4f/DivyanshuRajResume.pdf) 
-  
-
-<br/>  
-
-
-## Languages and Tools  
-<div align="center"> 
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a> 
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a> 
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a> 
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a> 
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a> 
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a> 
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a> 
-<a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" /></a> 
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a> 
-<a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" /></a> 
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a> 
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a> 
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a> 
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a> 
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a> 
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a> 
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a> 
-<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a> 
-<a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTeX" height="50" /></a> 
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a> 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hi%20there!%20I'm%20Divyanshu&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=60&descAlign=60" />
 </div>
-<br/>   
 
+<br/>
 
-## Connect with me  
-<a href="https://www.youtube.com/@rajdivyanshu1" target="_blank">
-<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
+<div align="center">
+
+<a href="https://www.instagram.com/__rajdivyanshu">
+<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
-<a href="https://instagram.com/__rajdivyanshu" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+&nbsp;&nbsp;
+<a href="https://www.youtube.com/@rajdivyanshu1">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 </a>
-<a href="https://www.facebook.com/divyanshu2206" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+&nbsp;&nbsp;
+<a href="https://www.twitter.com/divyanshu02raj/">
+<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
 </a>
-<a href="https://www.kaggle.com/divyanshuraj2206" target="_blank">
-<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/div02raj/">
+<img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
 </a>
-<a href="https://linkedin.com/in/div02raj" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+&nbsp;&nbsp;
+<a href="https://www.facebook.com/divyanshu2206">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
 </a>
-<a href="https://twitter.com/divyanshu02raj" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+&nbsp;&nbsp;
+<a href="https://github.com/divyanshu02raj">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
-<a href="https://github.com/divyanshu02raj" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-  
 
-<br/>  
+</div>
 
+<br/>
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=divyanshu02raj&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<h3 align="center">👨‍💻 About Me</h3>
 
-<br/>  
+<p align="center">
+  I'm <b>Divyanshu Raj</b>, a <b>Full-Stack Engineer</b> who loves bridging the gap between complex backends and intuitive frontends.<br/>
+  While the <b>MERN Stack</b> is my home base, I'm actively exploring the frontiers of <b>Generative AI</b> and <b>LLMs</b>.<br/>
+  I build, I learn, and I share—constantly striving to create software that matters.
+</p>
 
+<br/>
 
+<h3 align="center">🛠️ Tools & Technologies</h3>
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="NextJS" />
+      <br>NextJS
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="Redux" />
+      <br>Redux
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="NodeJS" />
+      <br>NodeJS
+    </td>
+       <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
+      <br>Express
+    </td>
+       <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+          <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+      <br>Java
+    </td>
+          <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+      <br>MySQL
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
+      <br>AWS
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+      <br>CSS
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="js" />
+      <br>Javascript
+    </td>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="figma" />
+      <br>Figma
+    </td>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=arduino" width="48" height="48" alt="arduino" />
+      <br>Arduino
+    </td>
+            <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=powershell" width="48" height="48" alt="powershell" />
+      <br>PowerShell
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<h3 align="center">📊 GitHub Stats</h3>
+
+<div align="center">
+  <details>
+    <summary><b>Click to expand</b></summary>
+    <br/>
+    <p align="center">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img alt="Divyanshu's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=divyanshu02raj&show_icons=true&count_private=true&theme=transparent&hide_border=true&title_color=00E676&icon_color=00E676&text_color=999" height="192px"/>
+      </a>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img alt="Divyanshu's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshu02raj&langs_count=8&layout=compact&theme=transparent&hide_border=true&title_color=00E676&icon_color=00E676&text_color=999" height="192px"/>
+      </a>
+    </p>
+  </details>
+</div>
+
+<br/>
+
+<h3 align="center">📈 Activity Graph</h3>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=divyanshu02raj&bg_color=00000000&color=00E676&line=00E676&point=FFFFFF&area=true&hide_border=true" />
+</div>
+
+<br/>
+
+<h3 align="center">🏆 Trophies</h3>
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=divyanshu02raj&row=1&margin-w=40&theme=flat&no-frame=true" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=divyanshu02raj&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" width="50" />
+</div>
