@@ -120,18 +120,9 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 <div align="center">
-  <details>
-    <summary><b>Click to expand</b></summary>
-    <br/>
-    <p align="center">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img alt="Divyanshu's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=divyanshu02raj&show_icons=true&count_private=true&theme=transparent&hide_border=true&title_color=00E676&icon_color=00E676&text_color=999" height="192px"/>
-      </a>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img alt="Divyanshu's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshu02raj&langs_count=8&layout=compact&theme=transparent&hide_border=true&title_color=00E676&icon_color=00E676&text_color=999" height="192px"/>
-      </a>
-    </p>
-  </details>
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img alt="Divyanshu's Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshu02raj&theme=transparent&hide_border=true&title_color=00E676&text_color=999&sideNums=00E676&sideLabels=999&ring=00E676&fire=00E676&currStreakLabel=00E676&currStreakNum=00E676" height="192px"/>
+  </a>
 </div>
 
 <br/>
