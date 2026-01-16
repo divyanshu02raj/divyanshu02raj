@@ -2,25 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hi%20there!%20I'm%20Divyanshu&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=60&descAlign=60" />
 </div>
 
-<br/>
 
-<div align="center">
-
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/div02raj/">
-<img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
-</a>
-&nbsp;&nbsp;
-<a href="mailto:divyanshu02raj@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-&nbsp;&nbsp;
-<a href="https://www.youtube.com/@rajdivyanshu1">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-</a>
-</div>
-
-<br/>
 
 <h3 align="center">👨‍💻 About Me</h3>
 
