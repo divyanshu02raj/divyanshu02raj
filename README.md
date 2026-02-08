@@ -4,7 +4,7 @@
 
 
 
-<h3 align="center">👨‍💻 About Me</h3>
+<h3 align="center">About Me</h3>
 
 <p align="center">
   I'm <b>Divyanshu Raj</b>, a <b>Full-Stack Engineer</b> who loves bridging the gap between complex backends and intuitive frontends.<br/>
@@ -14,7 +14,7 @@
 
 <br/>
 
-<h3 align="center">🛠 Core Tech Stack</h3>
+<h3 align="center">Core Tech Stack</h3>
 
 <table align="center">
   <tr>
