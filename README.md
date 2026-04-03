@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hi%20there!%20I'm%20Divyanshu%20Raj&fontSize=60&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20AI/ML Engineer&descAlignY=60&descAlign=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hi%20there!%20I%27m%20Divyanshu%20Raj&fontSize=60&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20AI/ML%20Engineer&descAlignY=60&descAlign=60" />
 </div>
 
 <h3 align="center">👨‍💻 About Me</h3>
