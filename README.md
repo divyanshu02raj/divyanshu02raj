@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hi%20there!%20I'm%20Divyanshu%20Raj&fontSize=60&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20AI/ML Engineer&descAlignY=60&descAlign=60" />
 </div>
 
-<h3 align="center">About Me</h3>
+<h3 align="center">👨‍💻 About Me</h3>
 
 <p align="center">
   I'm <b>Divyanshu Raj</b>, a <b>Full Stack Developer</b> specializing in the <b>MERN Stack (MongoDB, Express.js, React, Node.js)</b> and <b>AI/ML</b>.<br/>
@@ -83,8 +83,6 @@
 <img src="https://img.shields.io/github/followers/divyanshu02raj?label=Followers&style=for-the-badge" />
 <img src="https://img.shields.io/github/stars/divyanshu02raj?label=Total%20Stars&style=for-the-badge" />
 <br>
-</p>
-<p align="center">
   <picture>
     <source 
       srcset="https://github-readme-streak-stats.herokuapp.com/?user=divyanshu02raj&theme=dark"
