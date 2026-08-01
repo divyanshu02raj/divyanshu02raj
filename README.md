@@ -1,19 +1,19 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hi%20there!%20I%27m%20Divyanshu%20Raj&fontSize=60&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20AI/ML%20Engineer&descAlignY=60&descAlign=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hi%20there!%20I%27m%20Divyanshu%20Raj&fontSize=60&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20Software%20Engineer&descAlignY=60&descAlign=60" />
 </div>
 
 <h3 align="center">👨‍💻 About Me</h3>
 
 <p align="center">
-  I'm <b>Divyanshu Raj</b>, a <b>Full Stack Developer</b> specializing in the <b>MERN Stack (MongoDB, Express.js, React, Node.js)</b> and <b>AI/ML</b>.<br/>
-  I build scalable web applications, explore <b>Generative AI</b> and <b>LLMs</b>, and work on real-world impactful projects.<br/>
+  I'm <b>Divyanshu Raj</b>, a <b>Full Stack Developer</b> specializing in the <b>MERN Stack (MongoDB, Express.js, React, Node.js)</b>.<br/>
+  I build scalable web applications, design robust backend architectures, and work on real-world impactful projects.<br/>
   Passionate about open source, system design, and modern web technologies.
 </p>
 
 <br>
 <h3 align="center">🌐 Connect with Me</h3>
 <p align="center">
-<a href="https://rajdivyanshu.in">🌍 Portfolio</a> |
+<a href="https://www.rajdivyanshu.in">🌍 Portfolio</a> |
 <a href="https://linkedin.com/in/div02raj">💼 LinkedIn</a> |
 <a href="https://dev.to/divyanshuraj">🧑‍💻 Dev.to</a> |
 <a href="https://medium.com/@divyanshuraj_">✍️ Medium</a>
@@ -97,14 +97,14 @@
 <br>
 <h3 align="center">⚡ Currently Working On</h3>
 <p align="center">
-  🔹 Building AI-powered applications <br/>
+  🔹 Building scalable MERN stack applications <br/>
   🔹 Improving system design & backend architecture <br/>
-  🔹 Exploring Generative AI and LLMs
+  🔹 Optimizing web performance and user experiences
 </p>
 <br>
 <h3 align="center">🔍 About Divyanshu Raj</h3>
 <p align="center">
-Divyanshu Raj is a Full Stack Developer and AI/ML enthusiast from India. He specializes in MERN stack development, builds scalable web applications, and works on real-world AI-powered projects.
+Divyanshu Raj is a Full Stack Developer from India. He specializes in MERN stack development, builds scalable web applications, and engineers robust real-world software solutions.
 </p>
 <br>
 <p align="center">
